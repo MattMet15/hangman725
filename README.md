@@ -1,7 +1,7 @@
 # Hangman
 # Matts Hangman Game Project 
 
-The project is to create a game of Hangman from scratch using coding practices I have learned throughout the AI Core lessons. The aim of the project is to create code in which the code will generate a random word, user will then input a "guess" which will be a single letter.
+The project is to create a game of Hangman from scratch using coding practices I have learned throughout the AI Core lessons. The aim of the project is to create code in which the code will generate a random word, user will then input a "guess" which will be a single letter. Using functions, the code will then check to see if the input is indeed a single letter, and then will also check whether that letter is contained within the randomly generated word.
 
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
