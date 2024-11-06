@@ -59,4 +59,4 @@ def play_game(word_list):
 
 # Code to play the game
 word_list = ['apple', 'banana', 'pear', 'mango', 'grapefruit']
-play_game(fruit_list)
+play_game(word_list)
