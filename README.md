@@ -7,6 +7,7 @@ Milestone 1: (Not documented) - Use the preset tools to create the envorinment f
 Milestone 2: This document creates the variables for the game
 Milestone 3: This document creates loops which check if the guessed letter is within the random word, and provides notes for the player
 Milestone 4: This document creates the classes used within the game
+Milestone 5: This document defines the function which allows the user to play the game
 
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
