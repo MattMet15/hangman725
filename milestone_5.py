@@ -58,5 +58,5 @@ def play_game(word_list):
             break
 
 # Code to play the game
-fruit_list = ['Apple', 'Bananas', 'Orange', 'Strawberry','Grapes']
+word_list = ['apple', 'banana', 'pear', 'mango', 'grapefruit']
 play_game(fruit_list)
